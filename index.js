@@ -1,2 +1,4 @@
 import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import lastWord from './src/index.js';
+
+lastWord();
